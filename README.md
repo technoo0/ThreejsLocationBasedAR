@@ -22,7 +22,7 @@ npm run android
 npm run ios
 ```
 
-# Run for Wob
+# Run for Web
 
 ```
 npm run web
